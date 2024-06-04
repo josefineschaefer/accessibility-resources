@@ -9,6 +9,7 @@ All the links getting lost in my bookmarks now have a place. Please find below m
 - [Accessibility Fundamentals](https://www.w3.org/WAI/fundamentals/)
 - [Accessibility Handbook](https://accessibilityhandbook.com/)
 - [The WCAG Explained](https://www.getstark.co/wcag-explained/)
+- [A11y Project](https://www.a11yproject.com/)
 
 ### Tools 
 - [Web Accessibility Simulator](https://chromewebstore.google.com/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla?hl=en)
@@ -40,6 +41,8 @@ All the links getting lost in my bookmarks now have a place. Please find below m
 - [How to Conduct Usability Studies for Accessibility](https://www.nngroup.com/reports/how-to-conduct-usability-studies-accessibility/)
 - [BITV-Test / EN 301 549 (Web) Testing steps/(German language)](https://bitvtest.de/pruefverfahren/bitv-20-web)
 - [Mobile Accessibility Testing](https://www.accessarmada.com/blog/why-are-there-no-mobile-accessibility-guidelines-in-wcag/)
+- [The most useful accessibility testing tools & techniques | article ](https://dev.to/sapegin/the-most-useful-accessibility-testing-tools-and-techniques-5cka)
+- [How I test a website for Accessibility | Article](https://dev.to/ilizette/how-i-test-a-website-for-accessibility-167g)
 
 ### Convincing your Manager
 - [Understanding the Cost of not being Accessible](https://karlgroves.com/understanding-the-cost-of-not-being-accessible/)
