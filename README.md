@@ -14,6 +14,7 @@ All the links getting lost in my bookmarks now have a place. Please find below m
 - [A11y Project](https://www.a11yproject.com/)
 - [Accessible Web Dev](https://accessibleweb.dev/): Practical examples for developers and designers
 - [A11y & Me](https://a11y.me/)
+- [Accessibility Blog by Hidde de Vries](https://hidde.blog/)
 
 ### Tools 
 - [Web Accessibility Simulator](https://chromewebstore.google.com/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla?hl=en)
