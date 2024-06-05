@@ -9,13 +9,20 @@ All the links getting lost in my bookmarks now have a place. Please find below m
 - [Accessibility Fundamentals](https://www.w3.org/WAI/fundamentals/)
 - [Accessibility Handbook](https://accessibilityhandbook.com/)
 - [The WCAG Explained](https://www.getstark.co/wcag-explained/)
+
+### Blogs & Open Source 
 - [A11y Project](https://www.a11yproject.com/)
+- [Accessible Web Dev](https://accessibleweb.dev/): Practical examples for developers and designers
+- [A11y & Me](https://a11y.me/)
 
 ### Tools 
 - [Web Accessibility Simulator](https://chromewebstore.google.com/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla?hl=en)
 - [Taba11y](https://chromewebstore.google.com/detail/taba11y/aocppmckdocdjkphmofnklcjhdidgmga?hl=en)
 - [axe DevTools](https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?utm_source=deque.com&utm_medium=referral&utm_campaign=axe-devtools_pricing_free)
 - [Color Contrast Checker](https://colourcontrast.cc/)
+
+### Accessible Development for Mobile
+- [Appt](https://appt.org/en/): Guide for making Apps accessible
 
 ### Laws & Regulations 
 
@@ -30,6 +37,7 @@ All the links getting lost in my bookmarks now have a place. Please find below m
 - [Inclusive - Microsoft Design Toolkit](https://inclusive.microsoft.design/tools-and-activities/InclusiveActivityCards.pdf)
 - [Designing for Colorblindness](https://uxdesign.cc/color-blindness-in-user-interfaces-66c27331b858)
 - [Architecture for the Deaf](https://www.youtube.com/watch?v=FNGp1aviGvE)
+- [Designing for Neurodiversity](https://dwpdigital.blog.gov.uk/2022/06/30/designing-accessible-services-dont-exclude-the-neurodiverse/)
 
 ### Accessible Content Writing
 
@@ -43,6 +51,16 @@ All the links getting lost in my bookmarks now have a place. Please find below m
 - [Mobile Accessibility Testing](https://www.accessarmada.com/blog/why-are-there-no-mobile-accessibility-guidelines-in-wcag/)
 - [The most useful accessibility testing tools & techniques | article ](https://dev.to/sapegin/the-most-useful-accessibility-testing-tools-and-techniques-5cka)
 - [How I test a website for Accessibility | Article](https://dev.to/ilizette/how-i-test-a-website-for-accessibility-167g)
+- [GAAD Accessibility UI Testing Article Series](https://dev.to/steady5063/series/27341)
 
 ### Convincing your Manager
 - [Understanding the Cost of not being Accessible](https://karlgroves.com/understanding-the-cost-of-not-being-accessible/)
+
+## Miscellaneous
+- [Rethinking Text Sizing](https://scribe.rip/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
+- [Important AI Developments affecting Accessibility](https://convergeaccessibility.com/2024/05/23/two_important_ai_developments_affecting_accessibility/)
+- [How Artificial General Intelligence Could Redefine Accessibility](https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/)
+
+### More Lists of Resources
+- [AbilityNet](https://abilitynet.org.uk/accessibility-services/useful-resources)
+- [Accessibility Resources by @YuriDevAT](https://github.com/YuriDevAT/a11y-resources)
