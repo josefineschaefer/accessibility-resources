@@ -24,6 +24,7 @@ All the links getting lost in my bookmarks now have a place. Please find below m
 
 ### Accessible Development for Mobile
 - [Appt](https://appt.org/en/): Guide for making Apps accessible
+- [IAAP Webinar on Accessible Mobile Development](https://iaap-nordic.org/en/whats-up/recorded-events/)
 
 ### Laws & Regulations 
 
