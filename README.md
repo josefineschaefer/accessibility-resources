@@ -66,3 +66,5 @@ All the links getting lost in my bookmarks now have a place. Please find below m
 ### More Lists of Resources
 - [AbilityNet](https://abilitynet.org.uk/accessibility-services/useful-resources)
 - [Accessibility Resources by @YuriDevAT](https://github.com/YuriDevAT/a11y-resources)
+- [GAAD Foundation](https://gaad.foundation/)
+- [Practical Accessibility Course by Sara Soudeidan](https://practical-accessibility.today/)
