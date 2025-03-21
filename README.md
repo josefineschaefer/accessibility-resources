@@ -28,7 +28,7 @@ All the links getting lost in my bookmarks now have a place. Please find below m
 
 ### Laws & Regulations 
 
-- [BITV BIK Test (German language](https://bitvtest.de/)
+- [BITV BIK Test (German language)](https://bitvtest.de/)
 - [Überwachungsstelle des Bundes für Barrierefreiheit von Informationstechnik](https://www.bfit-bund.de/DE/Downloads/downloads.html)
 
 ## Accessibility for different Discliplines
