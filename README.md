@@ -15,6 +15,10 @@ All the links getting lost in my bookmarks now have a place. Please find below m
 - [Accessible Web Dev](https://accessibleweb.dev/): Practical examples for developers and designers
 - [A11y & Me](https://a11y.me/)
 - [Accessibility Blog by Hidde de Vries](https://hidde.blog/)
+- [Erik Kroes Blog](https://www.erikkroes.nl/blog/)
+
+### Podcasts 
+- [Focus Trap Podcast by Tim Damen](https://focusring.io/podcast-focustrap)
 
 ### Tools 
 - [Web Accessibility Simulator](https://chromewebstore.google.com/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla?hl=en)
@@ -29,7 +33,6 @@ All the links getting lost in my bookmarks now have a place. Please find below m
 - [Abra Academy](https://abra.ai/products/academy)(most tutorials are paid resources)
 
 ### Laws & Regulations 
-
 - [BITV BIK Test (German language)](https://bitvtest.de/)
 - [Überwachungsstelle des Bundes für Barrierefreiheit von Informationstechnik](https://www.bfit-bund.de/DE/Downloads/downloads.html)
 
