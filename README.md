@@ -19,6 +19,9 @@ All the links getting lost in my bookmarks now have a place. Please find below m
 
 ### Podcasts 
 - [Focus Trap Podcast by Tim Damen](https://focusring.io/podcast-focustrap)
+- [Disability Visibility by Alice Wong](https://disabilityvisibilityproject.com/podcast-2/)
+- [No End in Sight](https://noendinsight.co/)
+- [A11y Rules](https://a11yrules.com/)
 
 ### Tools 
 - [Web Accessibility Simulator](https://chromewebstore.google.com/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla?hl=en)
